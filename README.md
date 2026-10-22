@@ -13,7 +13,7 @@
 
 ---
 
-## ✦ 01 / About the human
+## ✦About Myself
 
 Hey, I'm **Meril**! 💜
 
@@ -30,7 +30,7 @@ I love design, enjoy exploring technology, and believe I don't have to choose ju
 
 > *One mind. Many interests. Endless possibilities.*
 
-## ✦ 02 / My worlds of curiosity
+## ✦ My worlds of curiosity
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ Discovering how technology works and how it can solve real problems.
 </tr>
 </table>
 
-## ✦ 03 / My creative & tech toolkit
+## ✦ My creative & tech toolkit
 
 ### Programming
 
@@ -79,7 +79,7 @@ Discovering how technology works and how it can solve real problems.
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## ✦ 04 / My GitHub activity
+## ✦ My GitHub activity
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Discovering how technology works and how it can solve real problems.
 
 </div>
 
-## ✦ 05 / A little reminder
+## ✦  A little reminder
 
 <div align="center">
 
